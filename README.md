@@ -1,7 +1,7 @@
 # College Management System
 
 Website:
-http://cmscollegemanagementsystem.pythonanywhere.com/
+#http://cmscollegemanagementsystem.pythonanywhere.com/
 
 # Project Summary
 This is a Simple College Management System Developed for Educational Purpose using Python (Django).
